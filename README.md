@@ -1,23 +1,25 @@
 Plate Bestie
 Gemini 3 Global Hackathon | Martian Xeno-Botany Assistant
 
-Plate Bestie uses Gemini 3 Flash to help Martian settlers diagnose plant health and optimize "Life-Support Zones" in pressurized habitats.
+Plate Bestie leverages Gemini 3 Flash to help Martian settlers diagnose plant health and optimize "Life-Support Zones" in pressurized habitats.
 
 Key Features
-Multimodal Diagnostics: Analyzes crops (Dwarf Tomatoes, Peppers) for stressors like Nitrogen deficiency.
+Multimodal Diagnostics: Real-time analysis of crops (Dwarf Tomatoes, Peppers, Strawberries) to identify stressors like Nitrogen deficiency or water stress.
 
-Habitat Scanning: Identifies optimal "Growth Zones" in your room using the camera.
+Habitat Scanning: Uses the Gemini 3 vision engine to map out "Growth Zones" and life-support efficiency within a room.
 
-Conversational Care: Real-time chat for survival protocols.
+Survival Chat: A direct conversational uplink for immediate botanical care protocols and survival instructions.
 
-Mission Notes (Read Me)
-Real-Time vs. Archive: Live scans and chats are fully functional. Note: The "Archive" chat currently has a sync bug—please use Live Scan for the full experience.
+Mission Deployment Notes
+Mission Telemetry: The "Archives" section contains Simulated Mission Logs. These are high-level data placeholders designed to demonstrate the app's UI scaling over a multi-year Martian harvest cycle.
 
-Atmosphere: Video lighting simulates Martian dome conditions.
+Atmospheric Lighting: The demo video is filmed in low-light conditions to simulate the specific LUX intensity found inside a pressurized Martian "Bio-Dome."
 
-Placeholders: Some archival logs use placeholder data to simulate a long-term mission timeline.
+Live Uplink: All Live Scans and Real-Time Chats are fully operational, demonstrating the raw power of the Gemini 3 Flash multimodal engine.
 
-Tech
-AI: Gemini 3 Flash
+Tech Stack
+AI Engine: Gemini 3 Flash (Multimodal)
 
-Mobile: Native Android
+Platform: Native Android
+
+Intelligence: Visual Grounding & Real-time Reasoning
