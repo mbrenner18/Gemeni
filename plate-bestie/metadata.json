@@ -1,0 +1,8 @@
+{
+  "name": "Plate Bestie",
+  "description": "A gamified multimodal gardening app where Me-Lap, your Martian bestie, helps you grow the perfect farm-to-table garden.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
